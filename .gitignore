@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node.js
+node_modules/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+
+# 备份文件
+*.zip
+*.rar
+*.7z
